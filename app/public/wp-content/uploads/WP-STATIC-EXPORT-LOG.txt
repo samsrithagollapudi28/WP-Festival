@@ -1,0 +1,1201 @@
+2020-09-05 05:28:24
+PHP VERSION 7.3.5
+OS VERSION Windows NT DESKTOP-2DH9COA 10.0 build 18362 (Windows 10) AMD64
+WP VERSION 5.5.1
+WP URL http://localhost:10004
+WP SITEURL http://localhost:10004
+WP HOME http://localhost:10004
+WP ADDRESS http://localhost:10004
+PLUGIN VERSION 6.6.7
+VIA WP-CLI? 
+STATIC EXPORT URL https://samsrithagollapudi28.github.io/Music-Festival/
+PERMALINK STRUCTURE /%postname%/
+SERVER SOFTWARE nginx/1.16.0
+Active plugins:
+package/wp2static.php
+Plugin options:
+additionalUrls: 
+allowOfflineUsage: 
+baseHREF: 
+baseUrl: https://samsrithagollapudi28.github.io/WP-Festival
+baseUrl-bitbucket: 
+baseUrl-bunnycdn: 
+baseUrl-folder: 
+baseUrl-ftp: 
+baseUrl-github: https://samsrithagollapudi28.github.io/WP-Festival
+baseUrl-gitlab: 
+baseUrl-netlify: 
+baseUrl-s3: 
+baseUrl-zip: 
+baseUrl-zip: 
+basicAuthPassword: *******************
+basicAuthUser: 
+bbBranch: 
+bbPath: 
+bbRepo: 
+bbToken: *******************
+bunnycdnStorageZoneAccessKey: *******************
+bunnycdnPullZoneAccessKey: *******************
+bunnycdnPullZoneID: 
+bunnycdnStorageZoneName: 
+bunnycdnRemotePath: 
+cfDistributionId: 
+completionEmail: 
+crawl_delay: 0
+crawl_increment: 1
+crawlPort: 
+debug_mode: 1
+detection_level: everything
+delayBetweenAPICalls: 0
+deployBatchSize: 999999
+excludeURLs: 
+ftpPassword: *******************
+ftpRemotePath: 
+ftpServer: 
+ftpPort: 
+ftpTLS: 
+ftpUsername: 
+ghBranch: gh-pages
+ghCommitMessage: 
+ghPath: 
+ghRepo: samsrithagollapudi28/WP-Festival
+ghToken: *******************
+glBranch: 
+glPath: 
+glProject: 
+glToken: *******************
+netlifyHeaders: 
+netlifyPersonalAccessToken: *******************
+netlifyRedirects: 
+netlifySiteID: 
+removeConditionalHeadComments: 1
+removeHTMLComments: 1
+removeWPLinks: 1
+removeWPMeta: 1
+rewrite_rules: 
+rename_rules: 
+s3Bucket: 
+s3Key: 
+s3Region: 
+s3RemotePath: 
+s3Secret: *******************
+selected_deployment_option: github
+targetFolder: C:/Users/LENOVO/Local Sites/wp-festival/app/public/mystaticsite
+useActiveFTP: 
+useBaseHref: 
+useBasicAuth: 
+useRelativeURLs: 
+Installed extensions:
+Core
+bcmath
+calendar
+ctype
+date
+filter
+hash
+iconv
+json
+SPL
+pcre
+readline
+Reflection
+session
+standard
+mysqlnd
+tokenizer
+zip
+zlib
+libxml
+dom
+PDO
+bz2
+SimpleXML
+xml
+wddx
+xmlreader
+xmlwriter
+cgi-fcgi
+curl
+gettext
+openssl
+mbstring
+gd
+ftp
+imap
+Phar
+exif
+sodium
+tidy
+xsl
+xmlrpc
+soap
+mysqli
+pdo_mysql
+Zend OPcache
+xdebug
+Exclusion rules wp-json
+Crawling /
+Adding discovered URL: /feed/
+Adding discovered URL: /comments/feed/
+Adding discovered URL: /wp-includes/css/dist/block-library/style.min.css
+Adding discovered URL: /wp-content/themes/asura/css/unsemantic-grid.min.css
+Adding discovered URL: /wp-content/themes/asura/style.min.css
+Adding discovered URL: /wp-content/themes/asura/css/mobile.min.css
+Adding discovered URL: /wp-content/themes/asura/css/font-awesome.min.css
+Adding discovered URL: /wp-includes/js/jquery/jquery.js
+Adding discovered URL: /wp-json/
+Adding discovered URL: /wp-json/wp/v2/pages/13
+Adding discovered URL: /
+Adding discovered URL: /wp-json/oembed/1.0/embed
+Adding discovered URL: /wp-content/uploads/2020/06/cropped-heart-32x32.jpg
+Adding discovered URL: /wp-content/uploads/2020/06/cropped-heart-192x192.jpg
+Adding discovered URL: /wp-content/uploads/2020/06/cropped-heart-180x180.jpg
+Adding discovered URL: /wp-content/uploads/2020/06/cropped-heart-270x270.jpg
+Adding discovered URL: /wp-content/uploads/2020/06/heart-1.jpg
+Adding discovered URL: /wp-content/uploads/2020/06/heart-1-300x200.jpg
+Adding discovered URL: /wp-content/uploads/2020/06/heart-1-1024x683.jpg
+Adding discovered URL: /wp-content/uploads/2020/06/heart-1-768x512.jpg
+Adding discovered URL: /wp-content/uploads/2020/06/guitar-1024x513.jpg
+Adding discovered URL: /wp-content/uploads/2020/06/guitar-300x150.jpg
+Adding discovered URL: /wp-content/uploads/2020/06/guitar-768x385.jpg
+Adding discovered URL: /wp-content/uploads/2020/06/guitar.jpg
+Adding discovered URL: /wp-content/uploads/2020/06/smoke-1024x683.jpg
+Adding discovered URL: /wp-content/uploads/2020/06/smoke-300x200.jpg
+Adding discovered URL: /wp-content/uploads/2020/06/smoke-768x512.jpg
+Adding discovered URL: /wp-content/uploads/2020/06/smoke.jpg
+Adding discovered URL: /wp-content/uploads/2020/06/lights-1024x768.jpg
+Adding discovered URL: /wp-content/uploads/2020/06/lights-300x225.jpg
+Adding discovered URL: /wp-content/uploads/2020/06/lights-768x576.jpg
+Adding discovered URL: /wp-content/uploads/2020/06/lights.jpg
+Adding discovered URL: /wp-content/uploads/2020/06/heart-1024x683.jpg
+Adding discovered URL: /wp-content/uploads/2020/06/heart-300x200.jpg
+Adding discovered URL: /wp-content/uploads/2020/06/heart-768x512.jpg
+Adding discovered URL: /wp-content/uploads/2020/06/heart.jpg
+Adding discovered URL: /wp-content/uploads/2020/06/action-1024x575.jpg
+Adding discovered URL: /wp-content/uploads/2020/06/action-300x169.jpg
+Adding discovered URL: /wp-content/uploads/2020/06/action-768x432.jpg
+Adding discovered URL: /wp-content/uploads/2020/06/action.jpg
+Adding discovered URL: /wp-content/uploads/2020/06/glitter-1024x768.jpg
+Adding discovered URL: /wp-content/uploads/2020/06/glitter-300x225.jpg
+Adding discovered URL: /wp-content/uploads/2020/06/glitter-768x576.jpg
+Adding discovered URL: /wp-content/uploads/2020/06/glitter.jpg
+Adding discovered URL: /hello-world/
+Adding discovered URL: /wp-content/uploads/2020/06/Maroon-5-Memories.mp3
+Adding discovered URL: /wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css
+Adding discovered URL: /wp-includes/js/mediaelement/wp-mediaelement.min.css
+Adding discovered URL: /wp-content/themes/asura/js/menu.min.js
+Adding discovered URL: /wp-content/themes/asura/js/a11y.min.js
+Adding discovered URL: /wp-content/themes/asura/js/navigation-search.min.js
+Adding discovered URL: /wp-content/themes/asura/js/back-to-top.min.js
+Adding discovered URL: /wp-includes/js/mediaelement/mediaelement-and-player.min.js
+Adding discovered URL: /wp-includes/js/mediaelement/mediaelement-migrate.min.js
+Adding discovered URL: /wp-includes/js/mediaelement/wp-mediaelement.min.js
+SAVING / to C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/index.html
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /category/uncategorized/
+Adding discovered URL: /feed/
+Adding discovered URL: /comments/feed/
+Adding discovered URL: /category/uncategorized/feed/
+Adding discovered URL: /wp-includes/css/dist/block-library/style.min.css
+Adding discovered URL: /wp-content/themes/asura/css/unsemantic-grid.min.css
+Adding discovered URL: /wp-content/themes/asura/style.min.css
+Adding discovered URL: /wp-content/themes/asura/css/mobile.min.css
+Adding discovered URL: /wp-content/themes/asura/css/font-awesome.min.css
+Adding discovered URL: /wp-includes/js/jquery/jquery.js
+Adding discovered URL: /wp-json/
+Adding discovered URL: /wp-json/wp/v2/categories/1
+Adding discovered URL: /wp-content/uploads/2020/06/cropped-heart-32x32.jpg
+Adding discovered URL: /wp-content/uploads/2020/06/cropped-heart-192x192.jpg
+Adding discovered URL: /wp-content/uploads/2020/06/cropped-heart-180x180.jpg
+Adding discovered URL: /wp-content/uploads/2020/06/cropped-heart-270x270.jpg
+Adding discovered URL: /
+Adding discovered URL: /hello-world/
+Adding discovered URL: /author/festival_admin/
+Adding discovered URL: /category/uncategorized/
+Adding discovered URL: /wp-content/uploads/2020/06/Maroon-5-Memories.mp3
+Adding discovered URL: /wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css
+Adding discovered URL: /wp-includes/js/mediaelement/wp-mediaelement.min.css
+Adding discovered URL: /wp-content/themes/asura/js/menu.min.js
+Adding discovered URL: /wp-content/themes/asura/js/a11y.min.js
+Adding discovered URL: /wp-content/themes/asura/js/navigation-search.min.js
+Adding discovered URL: /wp-content/themes/asura/js/back-to-top.min.js
+Adding discovered URL: /wp-includes/js/mediaelement/mediaelement-and-player.min.js
+Adding discovered URL: /wp-includes/js/mediaelement/mediaelement-migrate.min.js
+Adding discovered URL: /wp-includes/js/mediaelement/wp-mediaelement.min.js
+SAVING /category/uncategorized/ to C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/category/uncategorized/index.html
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /category/uncategorized/page/1
+Adding discovered URL: /feed/
+Adding discovered URL: /comments/feed/
+Adding discovered URL: /category/uncategorized/feed/
+Adding discovered URL: /wp-includes/css/dist/block-library/style.min.css
+Adding discovered URL: /wp-content/themes/asura/css/unsemantic-grid.min.css
+Adding discovered URL: /wp-content/themes/asura/style.min.css
+Adding discovered URL: /wp-content/themes/asura/css/mobile.min.css
+Adding discovered URL: /wp-content/themes/asura/css/font-awesome.min.css
+Adding discovered URL: /wp-includes/js/jquery/jquery.js
+Adding discovered URL: /wp-json/
+Adding discovered URL: /wp-json/wp/v2/categories/1
+Adding discovered URL: /wp-content/uploads/2020/06/cropped-heart-32x32.jpg
+Adding discovered URL: /wp-content/uploads/2020/06/cropped-heart-192x192.jpg
+Adding discovered URL: /wp-content/uploads/2020/06/cropped-heart-180x180.jpg
+Adding discovered URL: /wp-content/uploads/2020/06/cropped-heart-270x270.jpg
+Adding discovered URL: /
+Adding discovered URL: /hello-world/
+Adding discovered URL: /author/festival_admin/
+Adding discovered URL: /category/uncategorized/
+Adding discovered URL: /wp-content/uploads/2020/06/Maroon-5-Memories.mp3
+Adding discovered URL: /wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css
+Adding discovered URL: /wp-includes/js/mediaelement/wp-mediaelement.min.css
+Adding discovered URL: /wp-content/themes/asura/js/menu.min.js
+Adding discovered URL: /wp-content/themes/asura/js/a11y.min.js
+Adding discovered URL: /wp-content/themes/asura/js/navigation-search.min.js
+Adding discovered URL: /wp-content/themes/asura/js/back-to-top.min.js
+Adding discovered URL: /wp-includes/js/mediaelement/mediaelement-and-player.min.js
+Adding discovered URL: /wp-includes/js/mediaelement/mediaelement-migrate.min.js
+Adding discovered URL: /wp-includes/js/mediaelement/wp-mediaelement.min.js
+SAVING /category/uncategorized/page/1 to C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/category/uncategorized/page/1/index.html
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /favicon.ico
+BAD RESPONSE STATUS (404): /favicon.ico
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /hello-world/
+Adding discovered URL: /feed/
+Adding discovered URL: /comments/feed/
+Adding discovered URL: /hello-world/feed/
+Adding discovered URL: /wp-includes/css/dist/block-library/style.min.css
+Adding discovered URL: /wp-content/themes/asura/css/unsemantic-grid.min.css
+Adding discovered URL: /wp-content/themes/asura/style.min.css
+Adding discovered URL: /wp-content/themes/asura/css/mobile.min.css
+Adding discovered URL: /wp-content/themes/asura/css/font-awesome.min.css
+Adding discovered URL: /wp-includes/js/jquery/jquery.js
+Adding discovered URL: /wp-json/
+Adding discovered URL: /wp-json/wp/v2/posts/1
+Adding discovered URL: /hello-world/
+Adding discovered URL: /
+Adding discovered URL: /wp-json/oembed/1.0/embed
+Adding discovered URL: /wp-content/uploads/2020/06/cropped-heart-32x32.jpg
+Adding discovered URL: /wp-content/uploads/2020/06/cropped-heart-192x192.jpg
+Adding discovered URL: /wp-content/uploads/2020/06/cropped-heart-180x180.jpg
+Adding discovered URL: /wp-content/uploads/2020/06/cropped-heart-270x270.jpg
+Adding discovered URL: /author/festival_admin/
+Adding discovered URL: /category/uncategorized/
+Adding discovered URL: /wp-content/uploads/2020/06/Maroon-5-Memories.mp3
+Adding discovered URL: /wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css
+Adding discovered URL: /wp-includes/js/mediaelement/wp-mediaelement.min.css
+Adding discovered URL: /wp-content/themes/asura/js/menu.min.js
+Adding discovered URL: /wp-content/themes/asura/js/a11y.min.js
+Adding discovered URL: /wp-content/themes/asura/js/navigation-search.min.js
+Adding discovered URL: /wp-content/themes/asura/js/back-to-top.min.js
+Adding discovered URL: /wp-includes/js/mediaelement/mediaelement-and-player.min.js
+Adding discovered URL: /wp-includes/js/mediaelement/mediaelement-migrate.min.js
+Adding discovered URL: /wp-includes/js/mediaelement/wp-mediaelement.min.js
+SAVING /hello-world/ to C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/\/hello-world/index.html
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /page/1
+cURL error:Operation timed out after 599930 milliseconds with 0 bytes received
+NOT SAVING EMTPY FILE /page/1
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /pages/page/1
+BAD RESPONSE STATUS (404): /pages/page/1
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /robots.txt
+BAD RESPONSE STATUS (404): /robots.txt
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /sitemap.xml
+BAD RESPONSE STATUS (404): /sitemap.xml
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/asura\css\admin\admin-style.css
+SAVING /wp-content/themes/asura\css\admin\admin-style.css to C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/wp-content/themes/asura\css\admin/admin-style.css
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/asura\css\admin\editor-style.css
+SAVING /wp-content/themes/asura\css\admin\editor-style.css to C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/wp-content/themes/asura\css\admin/editor-style.css
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/asura\css\admin\meta-box.css
+SAVING /wp-content/themes/asura\css\admin\meta-box.css to C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/wp-content/themes/asura\css\admin/meta-box.css
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/asura\css\font-awesome.css
+SAVING /wp-content/themes/asura\css\font-awesome.css to C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/wp-content/themes/asura\css/font-awesome.css
+Memory allocated by crawl script: 6144
+Exclusion rules wp-json
+Crawling /wp-content/themes/asura\css\font-awesome.min.css
+SAVING /wp-content/themes/asura\css\font-awesome.min.css to C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/wp-content/themes/asura\css/font-awesome.min.css
+Memory allocated by crawl script: 6144
+Exclusion rules wp-json
+Crawling /wp-content/themes/asura\css\mobile.css
+SAVING /wp-content/themes/asura\css\mobile.css to C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/wp-content/themes/asura\css/mobile.css
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/asura\css\mobile.min.css
+SAVING /wp-content/themes/asura\css\mobile.min.css to C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/wp-content/themes/asura\css/mobile.min.css
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/asura\css\unsemantic-grid.css
+SAVING /wp-content/themes/asura\css\unsemantic-grid.css to C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/wp-content/themes/asura\css/unsemantic-grid.css
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/asura\css\unsemantic-grid.min.css
+SAVING /wp-content/themes/asura\css\unsemantic-grid.min.css to C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/wp-content/themes/asura\css/unsemantic-grid.min.css
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/asura\fonts\FontAwesome.otf
+SAVING /wp-content/themes/asura\fonts\FontAwesome.otf to C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/wp-content/themes/asura\fonts/FontAwesome.otf
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/asura\fonts\fontawesome-webfont.eot
+SAVING /wp-content/themes/asura\fonts\fontawesome-webfont.eot to C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/wp-content/themes/asura\fonts/fontawesome-webfont.eot
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/asura\fonts\fontawesome-webfont.svg
+SAVING /wp-content/themes/asura\fonts\fontawesome-webfont.svg to C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/wp-content/themes/asura\fonts/fontawesome-webfont.svg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/asura\fonts\fontawesome-webfont.ttf
+SAVING /wp-content/themes/asura\fonts\fontawesome-webfont.ttf to C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/wp-content/themes/asura\fonts/fontawesome-webfont.ttf
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/asura\fonts\fontawesome-webfont.woff
+SAVING /wp-content/themes/asura\fonts\fontawesome-webfont.woff to C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/wp-content/themes/asura\fonts/fontawesome-webfont.woff
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/asura\fonts\fontawesome-webfont.woff2
+SAVING /wp-content/themes/asura\fonts\fontawesome-webfont.woff2 to C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/wp-content/themes/asura\fonts/fontawesome-webfont.woff2
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/asura\fonts\wpkoi.eot
+SAVING /wp-content/themes/asura\fonts\wpkoi.eot to C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/wp-content/themes/asura\fonts/wpkoi.eot
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/asura\fonts\wpkoi.svg
+SAVING /wp-content/themes/asura\fonts\wpkoi.svg to C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/wp-content/themes/asura\fonts/wpkoi.svg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/asura\fonts\wpkoi.ttf
+SAVING /wp-content/themes/asura\fonts\wpkoi.ttf to C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/wp-content/themes/asura\fonts/wpkoi.ttf
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/asura\fonts\wpkoi.woff
+SAVING /wp-content/themes/asura\fonts\wpkoi.woff to C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/wp-content/themes/asura\fonts/wpkoi.woff
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/asura\fonts\wpkoi.woff2
+SAVING /wp-content/themes/asura\fonts\wpkoi.woff2 to C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/wp-content/themes/asura\fonts/wpkoi.woff2
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/asura\inc\customizer\controls\css\selectWoo.min.css
+SAVING /wp-content/themes/asura\inc\customizer\controls\css\selectWoo.min.css to C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/wp-content/themes/asura\inc\customizer\controls\css/selectWoo.min.css
+Memory allocated by crawl script: 4096
+Exclusion rules wp-json
+Crawling /wp-content/themes/asura\inc\customizer\controls\css\slider-customizer.css
+SAVING /wp-content/themes/asura\inc\customizer\controls\css\slider-customizer.css to C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/wp-content/themes/asura\inc\customizer\controls\css/slider-customizer.css
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/asura\inc\customizer\controls\css\typography-customizer.css
+SAVING /wp-content/themes/asura\inc\customizer\controls\css\typography-customizer.css to C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/wp-content/themes/asura\inc\customizer\controls\css/typography-customizer.css
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/asura\inc\customizer\controls\css\upsell-customizer.css
+SAVING /wp-content/themes/asura\inc\customizer\controls\css\upsell-customizer.css to C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/wp-content/themes/asura\inc\customizer\controls\css/upsell-customizer.css
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/asura\inc\customizer\controls\js\customizer-live-preview.js
+SAVING /wp-content/themes/asura\inc\customizer\controls\js\customizer-live-preview.js to C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/wp-content/themes/asura\inc\customizer\controls\js/customizer-live-preview.js
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/asura\inc\customizer\controls\js\selectWoo.min.js
+SAVING /wp-content/themes/asura\inc\customizer\controls\js\selectWoo.min.js to C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/wp-content/themes/asura\inc\customizer\controls\js/selectWoo.min.js
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/asura\inc\customizer\controls\js\slider-control.js
+SAVING /wp-content/themes/asura\inc\customizer\controls\js\slider-control.js to C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/wp-content/themes/asura\inc\customizer\controls\js/slider-control.js
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/asura\inc\customizer\controls\js\typography-customizer.js
+SAVING /wp-content/themes/asura\inc\customizer\controls\js\typography-customizer.js to C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/wp-content/themes/asura\inc\customizer\controls\js/typography-customizer.js
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/asura\inc\customizer\controls\js\upsell-control.js
+SAVING /wp-content/themes/asura\inc\customizer\controls\js\upsell-control.js to C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/wp-content/themes/asura\inc\customizer\controls\js/upsell-control.js
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/asura\js\a11y.js
+SAVING /wp-content/themes/asura\js\a11y.js to C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/wp-content/themes/asura\js/a11y.js
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/asura\js\a11y.min.js
+SAVING /wp-content/themes/asura\js\a11y.min.js to C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/wp-content/themes/asura\js/a11y.min.js
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/asura\js\back-to-top.js
+SAVING /wp-content/themes/asura\js\back-to-top.js to C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/wp-content/themes/asura\js/back-to-top.js
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/asura\js\back-to-top.min.js
+SAVING /wp-content/themes/asura\js\back-to-top.min.js to C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/wp-content/themes/asura\js/back-to-top.min.js
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/asura\js\classList.js
+SAVING /wp-content/themes/asura\js\classList.js to C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/wp-content/themes/asura\js/classList.js
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/asura\js\classList.min.js
+SAVING /wp-content/themes/asura\js\classList.min.js to C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/wp-content/themes/asura\js/classList.min.js
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/asura\js\dropdown-click.js
+SAVING /wp-content/themes/asura\js\dropdown-click.js to C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/wp-content/themes/asura\js/dropdown-click.js
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/asura\js\dropdown-click.min.js
+SAVING /wp-content/themes/asura\js\dropdown-click.min.js to C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/wp-content/themes/asura\js/dropdown-click.min.js
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/asura\js\menu.js
+SAVING /wp-content/themes/asura\js\menu.js to C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/wp-content/themes/asura\js/menu.js
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/asura\js\menu.min.js
+SAVING /wp-content/themes/asura\js\menu.min.js to C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/wp-content/themes/asura\js/menu.min.js
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/asura\js\navigation-search.js
+SAVING /wp-content/themes/asura\js\navigation-search.js to C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/wp-content/themes/asura\js/navigation-search.js
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/asura\js\navigation-search.min.js
+SAVING /wp-content/themes/asura\js\navigation-search.min.js to C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/wp-content/themes/asura\js/navigation-search.min.js
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/asura\rtl.css
+SAVING /wp-content/themes/asura\rtl.css to C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/wp-content/themes/asura/rtl.css
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/asura\screenshot.png
+SAVING /wp-content/themes/asura\screenshot.png to C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/wp-content/themes/asura/screenshot.png
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/asura\style.css
+SAVING /wp-content/themes/asura\style.css to C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/wp-content/themes/asura/style.css
+Memory allocated by crawl script: 6144
+Exclusion rules wp-json
+Crawling /wp-content/themes/asura\style.min.css
+SAVING /wp-content/themes/asura\style.min.css to C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/wp-content/themes/asura/style.min.css
+Memory allocated by crawl script: 6144
+Exclusion rules wp-json
+Crawling /wp-content/uploads\2020\06\Maroon-5-Memories-mp3-image-150x150.jpg
+SAVING /wp-content/uploads\2020\06\Maroon-5-Memories-mp3-image-150x150.jpg to C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/wp-content/uploads\2020\06/Maroon-5-Memories-mp3-image-150x150.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/uploads\2020\06\Maroon-5-Memories-mp3-image-300x169.jpg
+SAVING /wp-content/uploads\2020\06\Maroon-5-Memories-mp3-image-300x169.jpg to C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/wp-content/uploads\2020\06/Maroon-5-Memories-mp3-image-300x169.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/uploads\2020\06\Maroon-5-Memories-mp3-image.jpg
+SAVING /wp-content/uploads\2020\06\Maroon-5-Memories-mp3-image.jpg to C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/wp-content/uploads\2020\06/Maroon-5-Memories-mp3-image.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/uploads\2020\06\Maroon-5-Memories.mp3
+SAVING /wp-content/uploads\2020\06\Maroon-5-Memories.mp3 to C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/wp-content/uploads\2020\06/Maroon-5-Memories.mp3
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/uploads\2020\06\action-1024x575.jpg
+SAVING /wp-content/uploads\2020\06\action-1024x575.jpg to C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/wp-content/uploads\2020\06/action-1024x575.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/uploads\2020\06\action-150x150.jpg
+SAVING /wp-content/uploads\2020\06\action-150x150.jpg to C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/wp-content/uploads\2020\06/action-150x150.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/uploads\2020\06\action-300x169.jpg
+SAVING /wp-content/uploads\2020\06\action-300x169.jpg to C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/wp-content/uploads\2020\06/action-300x169.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/uploads\2020\06\action-768x432.jpg
+SAVING /wp-content/uploads\2020\06\action-768x432.jpg to C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/wp-content/uploads\2020\06/action-768x432.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/uploads\2020\06\action.jpg
+SAVING /wp-content/uploads\2020\06\action.jpg to C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/wp-content/uploads\2020\06/action.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/uploads\2020\06\cropped-heart-150x150.jpg
+SAVING /wp-content/uploads\2020\06\cropped-heart-150x150.jpg to C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/wp-content/uploads\2020\06/cropped-heart-150x150.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/uploads\2020\06\cropped-heart-180x180.jpg
+SAVING /wp-content/uploads\2020\06\cropped-heart-180x180.jpg to C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/wp-content/uploads\2020\06/cropped-heart-180x180.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/uploads\2020\06\cropped-heart-192x192.jpg
+SAVING /wp-content/uploads\2020\06\cropped-heart-192x192.jpg to C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/wp-content/uploads\2020\06/cropped-heart-192x192.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/uploads\2020\06\cropped-heart-270x270.jpg
+SAVING /wp-content/uploads\2020\06\cropped-heart-270x270.jpg to C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/wp-content/uploads\2020\06/cropped-heart-270x270.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/uploads\2020\06\cropped-heart-300x300.jpg
+SAVING /wp-content/uploads\2020\06\cropped-heart-300x300.jpg to C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/wp-content/uploads\2020\06/cropped-heart-300x300.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/uploads\2020\06\cropped-heart-32x32.jpg
+SAVING /wp-content/uploads\2020\06\cropped-heart-32x32.jpg to C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/wp-content/uploads\2020\06/cropped-heart-32x32.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/uploads\2020\06\cropped-heart.jpg
+SAVING /wp-content/uploads\2020\06\cropped-heart.jpg to C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/wp-content/uploads\2020\06/cropped-heart.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/uploads\2020\06\glitter-1024x768.jpg
+SAVING /wp-content/uploads\2020\06\glitter-1024x768.jpg to C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/wp-content/uploads\2020\06/glitter-1024x768.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/uploads\2020\06\glitter-150x150.jpg
+SAVING /wp-content/uploads\2020\06\glitter-150x150.jpg to C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/wp-content/uploads\2020\06/glitter-150x150.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/uploads\2020\06\glitter-300x225.jpg
+SAVING /wp-content/uploads\2020\06\glitter-300x225.jpg to C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/wp-content/uploads\2020\06/glitter-300x225.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/uploads\2020\06\glitter-768x576.jpg
+SAVING /wp-content/uploads\2020\06\glitter-768x576.jpg to C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/wp-content/uploads\2020\06/glitter-768x576.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/uploads\2020\06\glitter.jpg
+SAVING /wp-content/uploads\2020\06\glitter.jpg to C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/wp-content/uploads\2020\06/glitter.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/uploads\2020\06\guitar-1024x513.jpg
+SAVING /wp-content/uploads\2020\06\guitar-1024x513.jpg to C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/wp-content/uploads\2020\06/guitar-1024x513.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/uploads\2020\06\guitar-150x150.jpg
+SAVING /wp-content/uploads\2020\06\guitar-150x150.jpg to C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/wp-content/uploads\2020\06/guitar-150x150.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/uploads\2020\06\guitar-300x150.jpg
+SAVING /wp-content/uploads\2020\06\guitar-300x150.jpg to C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/wp-content/uploads\2020\06/guitar-300x150.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/uploads\2020\06\guitar-768x385.jpg
+SAVING /wp-content/uploads\2020\06\guitar-768x385.jpg to C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/wp-content/uploads\2020\06/guitar-768x385.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/uploads\2020\06\guitar.jpg
+SAVING /wp-content/uploads\2020\06\guitar.jpg to C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/wp-content/uploads\2020\06/guitar.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/uploads\2020\06\heart-1-1024x683.jpg
+SAVING /wp-content/uploads\2020\06\heart-1-1024x683.jpg to C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/wp-content/uploads\2020\06/heart-1-1024x683.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/uploads\2020\06\heart-1-150x150.jpg
+SAVING /wp-content/uploads\2020\06\heart-1-150x150.jpg to C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/wp-content/uploads\2020\06/heart-1-150x150.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/uploads\2020\06\heart-1-300x200.jpg
+SAVING /wp-content/uploads\2020\06\heart-1-300x200.jpg to C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/wp-content/uploads\2020\06/heart-1-300x200.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/uploads\2020\06\heart-1-768x512.jpg
+SAVING /wp-content/uploads\2020\06\heart-1-768x512.jpg to C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/wp-content/uploads\2020\06/heart-1-768x512.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/uploads\2020\06\heart-1.jpg
+SAVING /wp-content/uploads\2020\06\heart-1.jpg to C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/wp-content/uploads\2020\06/heart-1.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/uploads\2020\06\heart-1024x683.jpg
+SAVING /wp-content/uploads\2020\06\heart-1024x683.jpg to C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/wp-content/uploads\2020\06/heart-1024x683.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/uploads\2020\06\heart-150x150.jpg
+SAVING /wp-content/uploads\2020\06\heart-150x150.jpg to C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/wp-content/uploads\2020\06/heart-150x150.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/uploads\2020\06\heart-300x200.jpg
+SAVING /wp-content/uploads\2020\06\heart-300x200.jpg to C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/wp-content/uploads\2020\06/heart-300x200.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/uploads\2020\06\heart-768x512.jpg
+SAVING /wp-content/uploads\2020\06\heart-768x512.jpg to C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/wp-content/uploads\2020\06/heart-768x512.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/uploads\2020\06\heart.jpg
+SAVING /wp-content/uploads\2020\06\heart.jpg to C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/wp-content/uploads\2020\06/heart.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/uploads\2020\06\lights-1024x768.jpg
+SAVING /wp-content/uploads\2020\06\lights-1024x768.jpg to C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/wp-content/uploads\2020\06/lights-1024x768.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/uploads\2020\06\lights-150x150.jpg
+SAVING /wp-content/uploads\2020\06\lights-150x150.jpg to C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/wp-content/uploads\2020\06/lights-150x150.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/uploads\2020\06\lights-300x225.jpg
+SAVING /wp-content/uploads\2020\06\lights-300x225.jpg to C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/wp-content/uploads\2020\06/lights-300x225.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/uploads\2020\06\lights-768x576.jpg
+SAVING /wp-content/uploads\2020\06\lights-768x576.jpg to C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/wp-content/uploads\2020\06/lights-768x576.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/uploads\2020\06\lights.jpg
+SAVING /wp-content/uploads\2020\06\lights.jpg to C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/wp-content/uploads\2020\06/lights.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/uploads\2020\06\smoke-1024x683.jpg
+SAVING /wp-content/uploads\2020\06\smoke-1024x683.jpg to C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/wp-content/uploads\2020\06/smoke-1024x683.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/uploads\2020\06\smoke-150x150.jpg
+SAVING /wp-content/uploads\2020\06\smoke-150x150.jpg to C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/wp-content/uploads\2020\06/smoke-150x150.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/uploads\2020\06\smoke-300x200.jpg
+SAVING /wp-content/uploads\2020\06\smoke-300x200.jpg to C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/wp-content/uploads\2020\06/smoke-300x200.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/uploads\2020\06\smoke-768x512.jpg
+SAVING /wp-content/uploads\2020\06\smoke-768x512.jpg to C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/wp-content/uploads\2020\06/smoke-768x512.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/uploads\2020\06\smoke.jpg
+SAVING /wp-content/uploads\2020\06\smoke.jpg to C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/wp-content/uploads\2020\06/smoke.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/uploads\2020\09\package.rar
+BAD RESPONSE STATUS (404): /wp-content/uploads\2020\09\package.rar
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/uploads\2020\09\package.zip.rar
+BAD RESPONSE STATUS (404): /wp-content/uploads\2020\09\package.zip.rar
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /author/festival_admin/
+Adding discovered URL: /feed/
+Adding discovered URL: /comments/feed/
+Adding discovered URL: /author/festival_admin/feed/
+Adding discovered URL: /wp-includes/css/dist/block-library/style.min.css
+Adding discovered URL: /wp-content/themes/asura/css/unsemantic-grid.min.css
+Adding discovered URL: /wp-content/themes/asura/style.min.css
+Adding discovered URL: /wp-content/themes/asura/css/mobile.min.css
+Adding discovered URL: /wp-content/themes/asura/css/font-awesome.min.css
+Adding discovered URL: /wp-includes/js/jquery/jquery.js
+Adding discovered URL: /wp-json/
+Adding discovered URL: /wp-json/wp/v2/users/1
+Adding discovered URL: /wp-content/uploads/2020/06/cropped-heart-32x32.jpg
+Adding discovered URL: /wp-content/uploads/2020/06/cropped-heart-192x192.jpg
+Adding discovered URL: /wp-content/uploads/2020/06/cropped-heart-180x180.jpg
+Adding discovered URL: /wp-content/uploads/2020/06/cropped-heart-270x270.jpg
+Adding discovered URL: /
+Adding discovered URL: /hello-world/
+Adding discovered URL: /author/festival_admin/
+Adding discovered URL: /category/uncategorized/
+Adding discovered URL: /wp-content/uploads/2020/06/Maroon-5-Memories.mp3
+Adding discovered URL: /wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css
+Adding discovered URL: /wp-includes/js/mediaelement/wp-mediaelement.min.css
+Adding discovered URL: /wp-content/themes/asura/js/menu.min.js
+Adding discovered URL: /wp-content/themes/asura/js/a11y.min.js
+Adding discovered URL: /wp-content/themes/asura/js/navigation-search.min.js
+Adding discovered URL: /wp-content/themes/asura/js/back-to-top.min.js
+Adding discovered URL: /wp-includes/js/mediaelement/mediaelement-and-player.min.js
+Adding discovered URL: /wp-includes/js/mediaelement/mediaelement-migrate.min.js
+Adding discovered URL: /wp-includes/js/mediaelement/wp-mediaelement.min.js
+SAVING /author/festival_admin/ to C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/author/festival_admin/index.html
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /category/uncategorized/feed/
+SAVING /category/uncategorized/feed/ to C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/category/uncategorized/feed/index.html
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /comments/feed/
+SAVING /comments/feed/ to C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/comments/feed/index.html
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /feed/
+SAVING /feed/ to C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/\/feed/index.html
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /hello-world/feed/
+SAVING /hello-world/feed/ to C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/hello-world/feed/index.html
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/asura/css/font-awesome.min.css
+SAVING /wp-content/themes/asura/css/font-awesome.min.css to C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/wp-content/themes/asura/css/font-awesome.min.css
+Memory allocated by crawl script: 6144
+Exclusion rules wp-json
+Crawling /wp-content/themes/asura/css/mobile.min.css
+SAVING /wp-content/themes/asura/css/mobile.min.css to C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/wp-content/themes/asura/css/mobile.min.css
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/asura/css/unsemantic-grid.min.css
+SAVING /wp-content/themes/asura/css/unsemantic-grid.min.css to C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/wp-content/themes/asura/css/unsemantic-grid.min.css
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/asura/js/a11y.min.js
+SAVING /wp-content/themes/asura/js/a11y.min.js to C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/wp-content/themes/asura/js/a11y.min.js
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/asura/js/back-to-top.min.js
+SAVING /wp-content/themes/asura/js/back-to-top.min.js to C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/wp-content/themes/asura/js/back-to-top.min.js
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/asura/js/menu.min.js
+SAVING /wp-content/themes/asura/js/menu.min.js to C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/wp-content/themes/asura/js/menu.min.js
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/asura/js/navigation-search.min.js
+SAVING /wp-content/themes/asura/js/navigation-search.min.js to C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/wp-content/themes/asura/js/navigation-search.min.js
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/asura/style.min.css
+SAVING /wp-content/themes/asura/style.min.css to C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/wp-content/themes/asura/style.min.css
+Memory allocated by crawl script: 6144
+Exclusion rules wp-json
+Crawling /wp-content/uploads/2020/06/Maroon-5-Memories.mp3
+SAVING /wp-content/uploads/2020/06/Maroon-5-Memories.mp3 to C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/wp-content/uploads/2020/06/Maroon-5-Memories.mp3
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/uploads/2020/06/action-1024x575.jpg
+SAVING /wp-content/uploads/2020/06/action-1024x575.jpg to C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/wp-content/uploads/2020/06/action-1024x575.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/uploads/2020/06/action-300x169.jpg
+SAVING /wp-content/uploads/2020/06/action-300x169.jpg to C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/wp-content/uploads/2020/06/action-300x169.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/uploads/2020/06/action-768x432.jpg
+SAVING /wp-content/uploads/2020/06/action-768x432.jpg to C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/wp-content/uploads/2020/06/action-768x432.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/uploads/2020/06/action.jpg
+SAVING /wp-content/uploads/2020/06/action.jpg to C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/wp-content/uploads/2020/06/action.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/uploads/2020/06/cropped-heart-180x180.jpg
+SAVING /wp-content/uploads/2020/06/cropped-heart-180x180.jpg to C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/wp-content/uploads/2020/06/cropped-heart-180x180.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/uploads/2020/06/cropped-heart-192x192.jpg
+SAVING /wp-content/uploads/2020/06/cropped-heart-192x192.jpg to C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/wp-content/uploads/2020/06/cropped-heart-192x192.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/uploads/2020/06/cropped-heart-270x270.jpg
+SAVING /wp-content/uploads/2020/06/cropped-heart-270x270.jpg to C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/wp-content/uploads/2020/06/cropped-heart-270x270.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/uploads/2020/06/cropped-heart-32x32.jpg
+SAVING /wp-content/uploads/2020/06/cropped-heart-32x32.jpg to C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/wp-content/uploads/2020/06/cropped-heart-32x32.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/uploads/2020/06/glitter-1024x768.jpg
+SAVING /wp-content/uploads/2020/06/glitter-1024x768.jpg to C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/wp-content/uploads/2020/06/glitter-1024x768.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/uploads/2020/06/glitter-300x225.jpg
+SAVING /wp-content/uploads/2020/06/glitter-300x225.jpg to C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/wp-content/uploads/2020/06/glitter-300x225.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/uploads/2020/06/glitter-768x576.jpg
+SAVING /wp-content/uploads/2020/06/glitter-768x576.jpg to C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/wp-content/uploads/2020/06/glitter-768x576.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/uploads/2020/06/glitter.jpg
+SAVING /wp-content/uploads/2020/06/glitter.jpg to C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/wp-content/uploads/2020/06/glitter.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/uploads/2020/06/guitar-1024x513.jpg
+SAVING /wp-content/uploads/2020/06/guitar-1024x513.jpg to C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/wp-content/uploads/2020/06/guitar-1024x513.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/uploads/2020/06/guitar-300x150.jpg
+SAVING /wp-content/uploads/2020/06/guitar-300x150.jpg to C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/wp-content/uploads/2020/06/guitar-300x150.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/uploads/2020/06/guitar-768x385.jpg
+SAVING /wp-content/uploads/2020/06/guitar-768x385.jpg to C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/wp-content/uploads/2020/06/guitar-768x385.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/uploads/2020/06/guitar.jpg
+SAVING /wp-content/uploads/2020/06/guitar.jpg to C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/wp-content/uploads/2020/06/guitar.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/uploads/2020/06/heart-1-1024x683.jpg
+SAVING /wp-content/uploads/2020/06/heart-1-1024x683.jpg to C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/wp-content/uploads/2020/06/heart-1-1024x683.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/uploads/2020/06/heart-1-300x200.jpg
+SAVING /wp-content/uploads/2020/06/heart-1-300x200.jpg to C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/wp-content/uploads/2020/06/heart-1-300x200.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/uploads/2020/06/heart-1-768x512.jpg
+SAVING /wp-content/uploads/2020/06/heart-1-768x512.jpg to C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/wp-content/uploads/2020/06/heart-1-768x512.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/uploads/2020/06/heart-1.jpg
+SAVING /wp-content/uploads/2020/06/heart-1.jpg to C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/wp-content/uploads/2020/06/heart-1.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/uploads/2020/06/heart-1024x683.jpg
+SAVING /wp-content/uploads/2020/06/heart-1024x683.jpg to C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/wp-content/uploads/2020/06/heart-1024x683.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/uploads/2020/06/heart-300x200.jpg
+SAVING /wp-content/uploads/2020/06/heart-300x200.jpg to C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/wp-content/uploads/2020/06/heart-300x200.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/uploads/2020/06/heart-768x512.jpg
+SAVING /wp-content/uploads/2020/06/heart-768x512.jpg to C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/wp-content/uploads/2020/06/heart-768x512.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/uploads/2020/06/heart.jpg
+SAVING /wp-content/uploads/2020/06/heart.jpg to C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/wp-content/uploads/2020/06/heart.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/uploads/2020/06/lights-1024x768.jpg
+SAVING /wp-content/uploads/2020/06/lights-1024x768.jpg to C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/wp-content/uploads/2020/06/lights-1024x768.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/uploads/2020/06/lights-300x225.jpg
+SAVING /wp-content/uploads/2020/06/lights-300x225.jpg to C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/wp-content/uploads/2020/06/lights-300x225.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/uploads/2020/06/lights-768x576.jpg
+SAVING /wp-content/uploads/2020/06/lights-768x576.jpg to C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/wp-content/uploads/2020/06/lights-768x576.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/uploads/2020/06/lights.jpg
+SAVING /wp-content/uploads/2020/06/lights.jpg to C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/wp-content/uploads/2020/06/lights.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/uploads/2020/06/smoke-1024x683.jpg
+SAVING /wp-content/uploads/2020/06/smoke-1024x683.jpg to C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/wp-content/uploads/2020/06/smoke-1024x683.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/uploads/2020/06/smoke-300x200.jpg
+SAVING /wp-content/uploads/2020/06/smoke-300x200.jpg to C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/wp-content/uploads/2020/06/smoke-300x200.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/uploads/2020/06/smoke-768x512.jpg
+SAVING /wp-content/uploads/2020/06/smoke-768x512.jpg to C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/wp-content/uploads/2020/06/smoke-768x512.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/uploads/2020/06/smoke.jpg
+SAVING /wp-content/uploads/2020/06/smoke.jpg to C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/wp-content/uploads/2020/06/smoke.jpg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-includes/css/dist/block-library/style.min.css
+SAVING /wp-includes/css/dist/block-library/style.min.css to C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/wp-includes/css/dist/block-library/style.min.css
+Memory allocated by crawl script: 6144
+Exclusion rules wp-json
+Crawling /wp-includes/js/jquery/jquery.js
+SAVING /wp-includes/js/jquery/jquery.js to C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/wp-includes/js/jquery/jquery.js
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-includes/js/mediaelement/mediaelement-and-player.min.js
+SAVING /wp-includes/js/mediaelement/mediaelement-and-player.min.js to C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/wp-includes/js/mediaelement/mediaelement-and-player.min.js
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-includes/js/mediaelement/mediaelement-migrate.min.js
+SAVING /wp-includes/js/mediaelement/mediaelement-migrate.min.js to C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/wp-includes/js/mediaelement/mediaelement-migrate.min.js
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css
+SAVING /wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css to C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css
+Memory allocated by crawl script: 4096
+Exclusion rules wp-json
+Crawling /wp-includes/js/mediaelement/wp-mediaelement.min.css
+SAVING /wp-includes/js/mediaelement/wp-mediaelement.min.css to C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/wp-includes/js/mediaelement/wp-mediaelement.min.css
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-includes/js/mediaelement/wp-mediaelement.min.js
+SAVING /wp-includes/js/mediaelement/wp-mediaelement.min.js to C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/wp-includes/js/mediaelement/wp-mediaelement.min.js
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Excluding /wp-json/ because of rule wp-json
+Exclusion rules wp-json
+Excluding /wp-json/oembed/1.0/embed because of rule wp-json
+Exclusion rules wp-json
+Excluding /wp-json/wp/v2/categories/1 because of rule wp-json
+Exclusion rules wp-json
+Excluding /wp-json/wp/v2/pages/13 because of rule wp-json
+Exclusion rules wp-json
+Excluding /wp-json/wp/v2/posts/1 because of rule wp-json
+Uploading C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/author/festival_admin/index.html to author/festival_admin/index.html in GitHub
+API response code 200
+API response body {"data":{"repository":{"object":null}}}
+Creating author/festival_admin/index.html in GitHub
+API response code 201
+API response body {"content":{"name":"index.html","path":"author/festival_admin/index.html","sha":"05f775c5fcfb3539c109473dda6024222c37b3e6","size":22035,"url":"https://api.github.com/repos/samsrithagollapudi28/Music-Festival/contents/author/festival_admin/index.html?ref=gh-pages","html_url":"https://github.com/samsrithagollapudi28/Music-Festival/blob/gh-pages/author/festival_admin/index.html","git_url":"https://api.github.com/repos/samsrithagollapudi28/Music-Festival/git/blobs/05f775c5fcfb3539c109473dda6024222c37b3e6","download_url":"https://raw.githubusercontent.com/samsrithagollapudi28/Music-Festival/gh-pages/author/festival_admin/index.html","type":"file","_links":{"self":"https://api.github.com/repos/samsrithagollapudi28/Music-Festival/contents/author/festival_admin/index.html?ref=gh-pages","git":"https://api.github.com/repos/samsrithagollapudi28/Music-Festival/git/blobs/05f775c5fcfb3539c109473dda6024222c37b3e6","html":"https://github.com/samsrithagollapudi28/Music-Festival/blob/gh-pages/author/festival_admin/index.html"}},"commit":{"sha":"61fd036cdb3d91f6ab9f75b0d4c266bbd4668abf","node_id":"MDY6Q29tbWl0MjkzMDA4NzI3OjYxZmQwMzZjZGIzZDkxZjZhYjlmNzViMGQ0YzI2NmJiZDQ2NjhhYmY=","url":"https://api.github.com/repos/samsrithagollapudi28/Music-Festival/git/commits/61fd036cdb3d91f6ab9f75b0d4c266bbd4668abf","html_url":"https://github.com/samsrithagollapudi28/Music-Festival/commit/61fd036cdb3d91f6ab9f75b0d4c266bbd4668abf","author":{"name":"samsrithagollapudi28","email":"55306899+samsrithagollapudi28@users.noreply.github.com","date":"2020-09-05T05:40:09Z"},"committer":{"name":"samsrithagollapudi28","email":"55306899+samsrithagollapudi28@users.noreply.github.com","date":"2020-09-05T05:40:09Z"},"tree":{"sha":"4b4df0d8096eb5144883f453f897147a02f5432a","url":"https://api.github.com/repos/samsrithagollapudi28/Music-Festival/git/trees/4b4df0d8096eb5144883f453f897147a02f5432a"},"message":"WP2Static CREATE author/festival_admin/index.html","parents":[{"sha":"b94f0bfeb23f166c8fad626d0d93eb899e48f40c","url":"https://api.github.com/repos/samsrithagollapudi28/Music-Festival/git/commits/b94f0bfeb23f166c8fad626d0d93eb899e48f40c","html_url":"https://github.com/samsrithagollapudi28/Music-Festival/commit/b94f0bfeb23f166c8fad626d0d93eb899e48f40c"}],"verification":{"verified":false,"reason":"unsigned","signature":null,"payload":null}}}
+Uploading C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/category/uncategorized/feed/index.html to category/uncategorized/feed/index.html in GitHub
+API response code 200
+API response body {"data":{"repository":{"object":null}}}
+Creating category/uncategorized/feed/index.html in GitHub
+API response code 201
+API response body {"content":{"name":"index.html","path":"category/uncategorized/feed/index.html","sha":"e2b42596884a93c52467bb86c06e699b76cbbed9","size":2149,"url":"https://api.github.com/repos/samsrithagollapudi28/Music-Festival/contents/category/uncategorized/feed/index.html?ref=gh-pages","html_url":"https://github.com/samsrithagollapudi28/Music-Festival/blob/gh-pages/category/uncategorized/feed/index.html","git_url":"https://api.github.com/repos/samsrithagollapudi28/Music-Festival/git/blobs/e2b42596884a93c52467bb86c06e699b76cbbed9","download_url":"https://raw.githubusercontent.com/samsrithagollapudi28/Music-Festival/gh-pages/category/uncategorized/feed/index.html","type":"file","_links":{"self":"https://api.github.com/repos/samsrithagollapudi28/Music-Festival/contents/category/uncategorized/feed/index.html?ref=gh-pages","git":"https://api.github.com/repos/samsrithagollapudi28/Music-Festival/git/blobs/e2b42596884a93c52467bb86c06e699b76cbbed9","html":"https://github.com/samsrithagollapudi28/Music-Festival/blob/gh-pages/category/uncategorized/feed/index.html"}},"commit":{"sha":"900373d949d07342161ec558e48682f1a1baa4da","node_id":"MDY6Q29tbWl0MjkzMDA4NzI3OjkwMDM3M2Q5NDlkMDczNDIxNjFlYzU1OGU0ODY4MmYxYTFiYWE0ZGE=","url":"https://api.github.com/repos/samsrithagollapudi28/Music-Festival/git/commits/900373d949d07342161ec558e48682f1a1baa4da","html_url":"https://github.com/samsrithagollapudi28/Music-Festival/commit/900373d949d07342161ec558e48682f1a1baa4da","author":{"name":"samsrithagollapudi28","email":"55306899+samsrithagollapudi28@users.noreply.github.com","date":"2020-09-05T05:40:11Z"},"committer":{"name":"samsrithagollapudi28","email":"55306899+samsrithagollapudi28@users.noreply.github.com","date":"2020-09-05T05:40:11Z"},"tree":{"sha":"c49bcf72d7b8f522d5f46168261503ba59b893c2","url":"https://api.github.com/repos/samsrithagollapudi28/Music-Festival/git/trees/c49bcf72d7b8f522d5f46168261503ba59b893c2"},"message":"WP2Static CREATE category/uncategorized/feed/index.html","parents":[{"sha":"61fd036cdb3d91f6ab9f75b0d4c266bbd4668abf","url":"https://api.github.com/repos/samsrithagollapudi28/Music-Festival/git/commits/61fd036cdb3d91f6ab9f75b0d4c266bbd4668abf","html_url":"https://github.com/samsrithagollapudi28/Music-Festival/commit/61fd036cdb3d91f6ab9f75b0d4c266bbd4668abf"}],"verification":{"verified":false,"reason":"unsigned","signature":null,"payload":null}}}
+Uploading C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/category/uncategorized/index.html to category/uncategorized/index.html in GitHub
+API response code 200
+API response body {"data":{"repository":{"object":null}}}
+Creating category/uncategorized/index.html in GitHub
+API response code 201
+API response body {"content":{"name":"index.html","path":"category/uncategorized/index.html","sha":"3b08dcdb41a9e701c5206bb58895f9b59d29d513","size":21750,"url":"https://api.github.com/repos/samsrithagollapudi28/Music-Festival/contents/category/uncategorized/index.html?ref=gh-pages","html_url":"https://github.com/samsrithagollapudi28/Music-Festival/blob/gh-pages/category/uncategorized/index.html","git_url":"https://api.github.com/repos/samsrithagollapudi28/Music-Festival/git/blobs/3b08dcdb41a9e701c5206bb58895f9b59d29d513","download_url":"https://raw.githubusercontent.com/samsrithagollapudi28/Music-Festival/gh-pages/category/uncategorized/index.html","type":"file","_links":{"self":"https://api.github.com/repos/samsrithagollapudi28/Music-Festival/contents/category/uncategorized/index.html?ref=gh-pages","git":"https://api.github.com/repos/samsrithagollapudi28/Music-Festival/git/blobs/3b08dcdb41a9e701c5206bb58895f9b59d29d513","html":"https://github.com/samsrithagollapudi28/Music-Festival/blob/gh-pages/category/uncategorized/index.html"}},"commit":{"sha":"f9b86330e7e2565220a06c8ba490708fadcd37dc","node_id":"MDY6Q29tbWl0MjkzMDA4NzI3OmY5Yjg2MzMwZTdlMjU2NTIyMGEwNmM4YmE0OTA3MDhmYWRjZDM3ZGM=","url":"https://api.github.com/repos/samsrithagollapudi28/Music-Festival/git/commits/f9b86330e7e2565220a06c8ba490708fadcd37dc","html_url":"https://github.com/samsrithagollapudi28/Music-Festival/commit/f9b86330e7e2565220a06c8ba490708fadcd37dc","author":{"name":"samsrithagollapudi28","email":"55306899+samsrithagollapudi28@users.noreply.github.com","date":"2020-09-05T05:40:13Z"},"committer":{"name":"samsrithagollapudi28","email":"55306899+samsrithagollapudi28@users.noreply.github.com","date":"2020-09-05T05:40:13Z"},"tree":{"sha":"fd73c1c3aea9fcbfba53b78c44d0bc60071e1078","url":"https://api.github.com/repos/samsrithagollapudi28/Music-Festival/git/trees/fd73c1c3aea9fcbfba53b78c44d0bc60071e1078"},"message":"WP2Static CREATE category/uncategorized/index.html","parents":[{"sha":"900373d949d07342161ec558e48682f1a1baa4da","url":"https://api.github.com/repos/samsrithagollapudi28/Music-Festival/git/commits/900373d949d07342161ec558e48682f1a1baa4da","html_url":"https://github.com/samsrithagollapudi28/Music-Festival/commit/900373d949d07342161ec558e48682f1a1baa4da"}],"verification":{"verified":false,"reason":"unsigned","signature":null,"payload":null}}}
+Uploading C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/category/uncategorized/page/1/index.html to category/uncategorized/page/1/index.html in GitHub
+API response code 200
+API response body {"data":{"repository":{"object":null}}}
+Creating category/uncategorized/page/1/index.html in GitHub
+API response code 201
+API response body {"content":{"name":"index.html","path":"category/uncategorized/page/1/index.html","sha":"3b08dcdb41a9e701c5206bb58895f9b59d29d513","size":21750,"url":"https://api.github.com/repos/samsrithagollapudi28/Music-Festival/contents/category/uncategorized/page/1/index.html?ref=gh-pages","html_url":"https://github.com/samsrithagollapudi28/Music-Festival/blob/gh-pages/category/uncategorized/page/1/index.html","git_url":"https://api.github.com/repos/samsrithagollapudi28/Music-Festival/git/blobs/3b08dcdb41a9e701c5206bb58895f9b59d29d513","download_url":"https://raw.githubusercontent.com/samsrithagollapudi28/Music-Festival/gh-pages/category/uncategorized/page/1/index.html","type":"file","_links":{"self":"https://api.github.com/repos/samsrithagollapudi28/Music-Festival/contents/category/uncategorized/page/1/index.html?ref=gh-pages","git":"https://api.github.com/repos/samsrithagollapudi28/Music-Festival/git/blobs/3b08dcdb41a9e701c5206bb58895f9b59d29d513","html":"https://github.com/samsrithagollapudi28/Music-Festival/blob/gh-pages/category/uncategorized/page/1/index.html"}},"commit":{"sha":"b9e0a8b52034c4373e08a4fec35df4363d26222e","node_id":"MDY6Q29tbWl0MjkzMDA4NzI3OmI5ZTBhOGI1MjAzNGM0MzczZTA4YTRmZWMzNWRmNDM2M2QyNjIyMmU=","url":"https://api.github.com/repos/samsrithagollapudi28/Music-Festival/git/commits/b9e0a8b52034c4373e08a4fec35df4363d26222e","html_url":"https://github.com/samsrithagollapudi28/Music-Festival/commit/b9e0a8b52034c4373e08a4fec35df4363d26222e","author":{"name":"samsrithagollapudi28","email":"55306899+samsrithagollapudi28@users.noreply.github.com","date":"2020-09-05T05:40:16Z"},"committer":{"name":"samsrithagollapudi28","email":"55306899+samsrithagollapudi28@users.noreply.github.com","date":"2020-09-05T05:40:16Z"},"tree":{"sha":"236ac4f7e1972a4c3142f8cc450971fe3dc331d7","url":"https://api.github.com/repos/samsrithagollapudi28/Music-Festival/git/trees/236ac4f7e1972a4c3142f8cc450971fe3dc331d7"},"message":"WP2Static CREATE category/uncategorized/page/1/index.html","parents":[{"sha":"f9b86330e7e2565220a06c8ba490708fadcd37dc","url":"https://api.github.com/repos/samsrithagollapudi28/Music-Festival/git/commits/f9b86330e7e2565220a06c8ba490708fadcd37dc","html_url":"https://github.com/samsrithagollapudi28/Music-Festival/commit/f9b86330e7e2565220a06c8ba490708fadcd37dc"}],"verification":{"verified":false,"reason":"unsigned","signature":null,"payload":null}}}
+Uploading C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/comments/feed/index.html to comments/feed/index.html in GitHub
+API response code 200
+API response body {"data":{"repository":{"object":null}}}
+Creating comments/feed/index.html in GitHub
+API response code 201
+API response body {"content":{"name":"index.html","path":"comments/feed/index.html","sha":"3363d568f464f36b7de695616c2e5d4a3dbe4049","size":1736,"url":"https://api.github.com/repos/samsrithagollapudi28/Music-Festival/contents/comments/feed/index.html?ref=gh-pages","html_url":"https://github.com/samsrithagollapudi28/Music-Festival/blob/gh-pages/comments/feed/index.html","git_url":"https://api.github.com/repos/samsrithagollapudi28/Music-Festival/git/blobs/3363d568f464f36b7de695616c2e5d4a3dbe4049","download_url":"https://raw.githubusercontent.com/samsrithagollapudi28/Music-Festival/gh-pages/comments/feed/index.html","type":"file","_links":{"self":"https://api.github.com/repos/samsrithagollapudi28/Music-Festival/contents/comments/feed/index.html?ref=gh-pages","git":"https://api.github.com/repos/samsrithagollapudi28/Music-Festival/git/blobs/3363d568f464f36b7de695616c2e5d4a3dbe4049","html":"https://github.com/samsrithagollapudi28/Music-Festival/blob/gh-pages/comments/feed/index.html"}},"commit":{"sha":"8d71d33b191a0c9b715a045c48a99ec9f3f83dea","node_id":"MDY6Q29tbWl0MjkzMDA4NzI3OjhkNzFkMzNiMTkxYTBjOWI3MTVhMDQ1YzQ4YTk5ZWM5ZjNmODNkZWE=","url":"https://api.github.com/repos/samsrithagollapudi28/Music-Festival/git/commits/8d71d33b191a0c9b715a045c48a99ec9f3f83dea","html_url":"https://github.com/samsrithagollapudi28/Music-Festival/commit/8d71d33b191a0c9b715a045c48a99ec9f3f83dea","author":{"name":"samsrithagollapudi28","email":"55306899+samsrithagollapudi28@users.noreply.github.com","date":"2020-09-05T05:40:18Z"},"committer":{"name":"samsrithagollapudi28","email":"55306899+samsrithagollapudi28@users.noreply.github.com","date":"2020-09-05T05:40:18Z"},"tree":{"sha":"ecc0544d0d0a8029057b8ecaf2d8637863bfc7e6","url":"https://api.github.com/repos/samsrithagollapudi28/Music-Festival/git/trees/ecc0544d0d0a8029057b8ecaf2d8637863bfc7e6"},"message":"WP2Static CREATE comments/feed/index.html","parents":[{"sha":"b9e0a8b52034c4373e08a4fec35df4363d26222e","url":"https://api.github.com/repos/samsrithagollapudi28/Music-Festival/git/commits/b9e0a8b52034c4373e08a4fec35df4363d26222e","html_url":"https://github.com/samsrithagollapudi28/Music-Festival/commit/b9e0a8b52034c4373e08a4fec35df4363d26222e"}],"verification":{"verified":false,"reason":"unsigned","signature":null,"payload":null}}}
+Uploading C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/feed/index.html to feed/index.html in GitHub
+API response code 200
+API response body {"data":{"repository":{"object":null}}}
+Creating feed/index.html in GitHub
+API response code 201
+API response body {"content":{"name":"index.html","path":"feed/index.html","sha":"32de11dd5b740e61521a1ecba183f22c74672fe0","size":2082,"url":"https://api.github.com/repos/samsrithagollapudi28/Music-Festival/contents/feed/index.html?ref=gh-pages","html_url":"https://github.com/samsrithagollapudi28/Music-Festival/blob/gh-pages/feed/index.html","git_url":"https://api.github.com/repos/samsrithagollapudi28/Music-Festival/git/blobs/32de11dd5b740e61521a1ecba183f22c74672fe0","download_url":"https://raw.githubusercontent.com/samsrithagollapudi28/Music-Festival/gh-pages/feed/index.html","type":"file","_links":{"self":"https://api.github.com/repos/samsrithagollapudi28/Music-Festival/contents/feed/index.html?ref=gh-pages","git":"https://api.github.com/repos/samsrithagollapudi28/Music-Festival/git/blobs/32de11dd5b740e61521a1ecba183f22c74672fe0","html":"https://github.com/samsrithagollapudi28/Music-Festival/blob/gh-pages/feed/index.html"}},"commit":{"sha":"7a0a43965e65f69021bba506ddc18b3da855de2f","node_id":"MDY6Q29tbWl0MjkzMDA4NzI3OjdhMGE0Mzk2NWU2NWY2OTAyMWJiYTUwNmRkYzE4YjNkYTg1NWRlMmY=","url":"https://api.github.com/repos/samsrithagollapudi28/Music-Festival/git/commits/7a0a43965e65f69021bba506ddc18b3da855de2f","html_url":"https://github.com/samsrithagollapudi28/Music-Festival/commit/7a0a43965e65f69021bba506ddc18b3da855de2f","author":{"name":"samsrithagollapudi28","email":"55306899+samsrithagollapudi28@users.noreply.github.com","date":"2020-09-05T05:40:20Z"},"committer":{"name":"samsrithagollapudi28","email":"55306899+samsrithagollapudi28@users.noreply.github.com","date":"2020-09-05T05:40:20Z"},"tree":{"sha":"237e8ba40b4c81c1ca19fe82309770416c92df89","url":"https://api.github.com/repos/samsrithagollapudi28/Music-Festival/git/trees/237e8ba40b4c81c1ca19fe82309770416c92df89"},"message":"WP2Static CREATE feed/index.html","parents":[{"sha":"8d71d33b191a0c9b715a045c48a99ec9f3f83dea","url":"https://api.github.com/repos/samsrithagollapudi28/Music-Festival/git/commits/8d71d33b191a0c9b715a045c48a99ec9f3f83dea","html_url":"https://github.com/samsrithagollapudi28/Music-Festival/commit/8d71d33b191a0c9b715a045c48a99ec9f3f83dea"}],"verification":{"verified":false,"reason":"unsigned","signature":null,"payload":null}}}
+Uploading C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/hello-world/feed/index.html to hello-world/feed/index.html in GitHub
+API response code 200
+API response body {"data":{"repository":{"object":null}}}
+Creating hello-world/feed/index.html in GitHub
+API response code 201
+API response body {"content":{"name":"index.html","path":"hello-world/feed/index.html","sha":"971d958bd664c3e335a3aa61a737924fe107a89d","size":1730,"url":"https://api.github.com/repos/samsrithagollapudi28/Music-Festival/contents/hello-world/feed/index.html?ref=gh-pages","html_url":"https://github.com/samsrithagollapudi28/Music-Festival/blob/gh-pages/hello-world/feed/index.html","git_url":"https://api.github.com/repos/samsrithagollapudi28/Music-Festival/git/blobs/971d958bd664c3e335a3aa61a737924fe107a89d","download_url":"https://raw.githubusercontent.com/samsrithagollapudi28/Music-Festival/gh-pages/hello-world/feed/index.html","type":"file","_links":{"self":"https://api.github.com/repos/samsrithagollapudi28/Music-Festival/contents/hello-world/feed/index.html?ref=gh-pages","git":"https://api.github.com/repos/samsrithagollapudi28/Music-Festival/git/blobs/971d958bd664c3e335a3aa61a737924fe107a89d","html":"https://github.com/samsrithagollapudi28/Music-Festival/blob/gh-pages/hello-world/feed/index.html"}},"commit":{"sha":"2c41dc6344b7f6efb8d5438ba3fd4234824c1182","node_id":"MDY6Q29tbWl0MjkzMDA4NzI3OjJjNDFkYzYzNDRiN2Y2ZWZiOGQ1NDM4YmEzZmQ0MjM0ODI0YzExODI=","url":"https://api.github.com/repos/samsrithagollapudi28/Music-Festival/git/commits/2c41dc6344b7f6efb8d5438ba3fd4234824c1182","html_url":"https://github.com/samsrithagollapudi28/Music-Festival/commit/2c41dc6344b7f6efb8d5438ba3fd4234824c1182","author":{"name":"samsrithagollapudi28","email":"55306899+samsrithagollapudi28@users.noreply.github.com","date":"2020-09-05T05:40:22Z"},"committer":{"name":"samsrithagollapudi28","email":"55306899+samsrithagollapudi28@users.noreply.github.com","date":"2020-09-05T05:40:22Z"},"tree":{"sha":"55b00f92eba2332912553dad3eb830f2027f5d78","url":"https://api.github.com/repos/samsrithagollapudi28/Music-Festival/git/trees/55b00f92eba2332912553dad3eb830f2027f5d78"},"message":"WP2Static CREATE hello-world/feed/index.html","parents":[{"sha":"7a0a43965e65f69021bba506ddc18b3da855de2f","url":"https://api.github.com/repos/samsrithagollapudi28/Music-Festival/git/commits/7a0a43965e65f69021bba506ddc18b3da855de2f","html_url":"https://github.com/samsrithagollapudi28/Music-Festival/commit/7a0a43965e65f69021bba506ddc18b3da855de2f"}],"verification":{"verified":false,"reason":"unsigned","signature":null,"payload":null}}}
+Uploading C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/hello-world/index.html to hello-world/index.html in GitHub
+API response code 200
+API response body {"data":{"repository":{"object":null}}}
+Creating hello-world/index.html in GitHub
+API response code 201
+API response body {"content":{"name":"index.html","path":"hello-world/index.html","sha":"3c2b2bf8ad309fc1991c88dcff5a99cdc9e30455","size":24965,"url":"https://api.github.com/repos/samsrithagollapudi28/Music-Festival/contents/hello-world/index.html?ref=gh-pages","html_url":"https://github.com/samsrithagollapudi28/Music-Festival/blob/gh-pages/hello-world/index.html","git_url":"https://api.github.com/repos/samsrithagollapudi28/Music-Festival/git/blobs/3c2b2bf8ad309fc1991c88dcff5a99cdc9e30455","download_url":"https://raw.githubusercontent.com/samsrithagollapudi28/Music-Festival/gh-pages/hello-world/index.html","type":"file","_links":{"self":"https://api.github.com/repos/samsrithagollapudi28/Music-Festival/contents/hello-world/index.html?ref=gh-pages","git":"https://api.github.com/repos/samsrithagollapudi28/Music-Festival/git/blobs/3c2b2bf8ad309fc1991c88dcff5a99cdc9e30455","html":"https://github.com/samsrithagollapudi28/Music-Festival/blob/gh-pages/hello-world/index.html"}},"commit":{"sha":"6603404ea2b6b31752c7949944adc39604ec6105","node_id":"MDY6Q29tbWl0MjkzMDA4NzI3OjY2MDM0MDRlYTJiNmIzMTc1MmM3OTQ5OTQ0YWRjMzk2MDRlYzYxMDU=","url":"https://api.github.com/repos/samsrithagollapudi28/Music-Festival/git/commits/6603404ea2b6b31752c7949944adc39604ec6105","html_url":"https://github.com/samsrithagollapudi28/Music-Festival/commit/6603404ea2b6b31752c7949944adc39604ec6105","author":{"name":"samsrithagollapudi28","email":"55306899+samsrithagollapudi28@users.noreply.github.com","date":"2020-09-05T05:40:24Z"},"committer":{"name":"samsrithagollapudi28","email":"55306899+samsrithagollapudi28@users.noreply.github.com","date":"2020-09-05T05:40:24Z"},"tree":{"sha":"53f6b5f45f6746341390041ad9b48f56147ff58e","url":"https://api.github.com/repos/samsrithagollapudi28/Music-Festival/git/trees/53f6b5f45f6746341390041ad9b48f56147ff58e"},"message":"WP2Static CREATE hello-world/index.html","parents":[{"sha":"2c41dc6344b7f6efb8d5438ba3fd4234824c1182","url":"https://api.github.com/repos/samsrithagollapudi28/Music-Festival/git/commits/2c41dc6344b7f6efb8d5438ba3fd4234824c1182","html_url":"https://github.com/samsrithagollapudi28/Music-Festival/commit/2c41dc6344b7f6efb8d5438ba3fd4234824c1182"}],"verification":{"verified":false,"reason":"unsigned","signature":null,"payload":null}}}
+Uploading C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/index.html to index.html in GitHub
+API response code 200
+API response body {"data":{"repository":{"object":null}}}
+Creating index.html in GitHub
+API response code 201
+API response body {"content":{"name":"index.html","path":"index.html","sha":"bf463f43464bead3ab99265df996ec879d3a1075","size":26978,"url":"https://api.github.com/repos/samsrithagollapudi28/Music-Festival/contents/index.html?ref=gh-pages","html_url":"https://github.com/samsrithagollapudi28/Music-Festival/blob/gh-pages/index.html","git_url":"https://api.github.com/repos/samsrithagollapudi28/Music-Festival/git/blobs/bf463f43464bead3ab99265df996ec879d3a1075","download_url":"https://raw.githubusercontent.com/samsrithagollapudi28/Music-Festival/gh-pages/index.html","type":"file","_links":{"self":"https://api.github.com/repos/samsrithagollapudi28/Music-Festival/contents/index.html?ref=gh-pages","git":"https://api.github.com/repos/samsrithagollapudi28/Music-Festival/git/blobs/bf463f43464bead3ab99265df996ec879d3a1075","html":"https://github.com/samsrithagollapudi28/Music-Festival/blob/gh-pages/index.html"}},"commit":{"sha":"4e7e1f016c6c8a4bf58f7e1f567ae8a79f20ec72","node_id":"MDY6Q29tbWl0MjkzMDA4NzI3OjRlN2UxZjAxNmM2YzhhNGJmNThmN2UxZjU2N2FlOGE3OWYyMGVjNzI=","url":"https://api.github.com/repos/samsrithagollapudi28/Music-Festival/git/commits/4e7e1f016c6c8a4bf58f7e1f567ae8a79f20ec72","html_url":"https://github.com/samsrithagollapudi28/Music-Festival/commit/4e7e1f016c6c8a4bf58f7e1f567ae8a79f20ec72","author":{"name":"samsrithagollapudi28","email":"55306899+samsrithagollapudi28@users.noreply.github.com","date":"2020-09-05T05:40:27Z"},"committer":{"name":"samsrithagollapudi28","email":"55306899+samsrithagollapudi28@users.noreply.github.com","date":"2020-09-05T05:40:27Z"},"tree":{"sha":"013dc695e2c227ec0816574f6916ce185b63d7a4","url":"https://api.github.com/repos/samsrithagollapudi28/Music-Festival/git/trees/013dc695e2c227ec0816574f6916ce185b63d7a4"},"message":"WP2Static CREATE index.html","parents":[{"sha":"6603404ea2b6b31752c7949944adc39604ec6105","url":"https://api.github.com/repos/samsrithagollapudi28/Music-Festival/git/commits/6603404ea2b6b31752c7949944adc39604ec6105","html_url":"https://github.com/samsrithagollapudi28/Music-Festival/commit/6603404ea2b6b31752c7949944adc39604ec6105"}],"verification":{"verified":false,"reason":"unsigned","signature":null,"payload":null}}}
+Uploading C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/wp-content/themes/asura/css/admin/admin-style.css to wp-content/themes/asura/css/admin/admin-style.css in GitHub
+Skipping wp-content/themes/asura/css/admin/admin-style.css as identical to deploy cache
+Uploading C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/wp-content/themes/asura/css/admin/editor-style.css to wp-content/themes/asura/css/admin/editor-style.css in GitHub
+Skipping wp-content/themes/asura/css/admin/editor-style.css as identical to deploy cache
+Uploading C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/wp-content/themes/asura/css/admin/meta-box.css to wp-content/themes/asura/css/admin/meta-box.css in GitHub
+Skipping wp-content/themes/asura/css/admin/meta-box.css as identical to deploy cache
+Uploading C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/wp-content/themes/asura/css/font-awesome.css to wp-content/themes/asura/css/font-awesome.css in GitHub
+Skipping wp-content/themes/asura/css/font-awesome.css as identical to deploy cache
+Uploading C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/wp-content/themes/asura/css/font-awesome.min.css to wp-content/themes/asura/css/font-awesome.min.css in GitHub
+Skipping wp-content/themes/asura/css/font-awesome.min.css as identical to deploy cache
+Uploading C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/wp-content/themes/asura/css/mobile.css to wp-content/themes/asura/css/mobile.css in GitHub
+Skipping wp-content/themes/asura/css/mobile.css as identical to deploy cache
+Uploading C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/wp-content/themes/asura/css/mobile.min.css to wp-content/themes/asura/css/mobile.min.css in GitHub
+Skipping wp-content/themes/asura/css/mobile.min.css as identical to deploy cache
+Uploading C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/wp-content/themes/asura/css/unsemantic-grid.css to wp-content/themes/asura/css/unsemantic-grid.css in GitHub
+Skipping wp-content/themes/asura/css/unsemantic-grid.css as identical to deploy cache
+Uploading C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/wp-content/themes/asura/css/unsemantic-grid.min.css to wp-content/themes/asura/css/unsemantic-grid.min.css in GitHub
+Skipping wp-content/themes/asura/css/unsemantic-grid.min.css as identical to deploy cache
+Uploading C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/wp-content/themes/asura/fonts/FontAwesome.otf to wp-content/themes/asura/fonts/FontAwesome.otf in GitHub
+Skipping wp-content/themes/asura/fonts/FontAwesome.otf as identical to deploy cache
+Uploading C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/wp-content/themes/asura/fonts/fontawesome-webfont.eot to wp-content/themes/asura/fonts/fontawesome-webfont.eot in GitHub
+Skipping wp-content/themes/asura/fonts/fontawesome-webfont.eot as identical to deploy cache
+Uploading C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/wp-content/themes/asura/fonts/fontawesome-webfont.svg to wp-content/themes/asura/fonts/fontawesome-webfont.svg in GitHub
+Skipping wp-content/themes/asura/fonts/fontawesome-webfont.svg as identical to deploy cache
+Uploading C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/wp-content/themes/asura/fonts/fontawesome-webfont.ttf to wp-content/themes/asura/fonts/fontawesome-webfont.ttf in GitHub
+Skipping wp-content/themes/asura/fonts/fontawesome-webfont.ttf as identical to deploy cache
+Uploading C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/wp-content/themes/asura/fonts/fontawesome-webfont.woff to wp-content/themes/asura/fonts/fontawesome-webfont.woff in GitHub
+Skipping wp-content/themes/asura/fonts/fontawesome-webfont.woff as identical to deploy cache
+Uploading C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/wp-content/themes/asura/fonts/fontawesome-webfont.woff2 to wp-content/themes/asura/fonts/fontawesome-webfont.woff2 in GitHub
+Skipping wp-content/themes/asura/fonts/fontawesome-webfont.woff2 as identical to deploy cache
+Uploading C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/wp-content/themes/asura/fonts/wpkoi.eot to wp-content/themes/asura/fonts/wpkoi.eot in GitHub
+Skipping wp-content/themes/asura/fonts/wpkoi.eot as identical to deploy cache
+Uploading C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/wp-content/themes/asura/fonts/wpkoi.svg to wp-content/themes/asura/fonts/wpkoi.svg in GitHub
+Skipping wp-content/themes/asura/fonts/wpkoi.svg as identical to deploy cache
+Uploading C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/wp-content/themes/asura/fonts/wpkoi.ttf to wp-content/themes/asura/fonts/wpkoi.ttf in GitHub
+Skipping wp-content/themes/asura/fonts/wpkoi.ttf as identical to deploy cache
+Uploading C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/wp-content/themes/asura/fonts/wpkoi.woff to wp-content/themes/asura/fonts/wpkoi.woff in GitHub
+Skipping wp-content/themes/asura/fonts/wpkoi.woff as identical to deploy cache
+Uploading C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/wp-content/themes/asura/fonts/wpkoi.woff2 to wp-content/themes/asura/fonts/wpkoi.woff2 in GitHub
+Skipping wp-content/themes/asura/fonts/wpkoi.woff2 as identical to deploy cache
+Uploading C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/wp-content/themes/asura/inc/customizer/controls/css/selectWoo.min.css to wp-content/themes/asura/inc/customizer/controls/css/selectWoo.min.css in GitHub
+Skipping wp-content/themes/asura/inc/customizer/controls/css/selectWoo.min.css as identical to deploy cache
+Uploading C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/wp-content/themes/asura/inc/customizer/controls/css/slider-customizer.css to wp-content/themes/asura/inc/customizer/controls/css/slider-customizer.css in GitHub
+Skipping wp-content/themes/asura/inc/customizer/controls/css/slider-customizer.css as identical to deploy cache
+Uploading C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/wp-content/themes/asura/inc/customizer/controls/css/typography-customizer.css to wp-content/themes/asura/inc/customizer/controls/css/typography-customizer.css in GitHub
+Skipping wp-content/themes/asura/inc/customizer/controls/css/typography-customizer.css as identical to deploy cache
+Uploading C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/wp-content/themes/asura/inc/customizer/controls/css/upsell-customizer.css to wp-content/themes/asura/inc/customizer/controls/css/upsell-customizer.css in GitHub
+Skipping wp-content/themes/asura/inc/customizer/controls/css/upsell-customizer.css as identical to deploy cache
+Uploading C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/wp-content/themes/asura/inc/customizer/controls/js/customizer-live-preview.js to wp-content/themes/asura/inc/customizer/controls/js/customizer-live-preview.js in GitHub
+Skipping wp-content/themes/asura/inc/customizer/controls/js/customizer-live-preview.js as identical to deploy cache
+Uploading C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/wp-content/themes/asura/inc/customizer/controls/js/selectWoo.min.js to wp-content/themes/asura/inc/customizer/controls/js/selectWoo.min.js in GitHub
+Skipping wp-content/themes/asura/inc/customizer/controls/js/selectWoo.min.js as identical to deploy cache
+Uploading C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/wp-content/themes/asura/inc/customizer/controls/js/slider-control.js to wp-content/themes/asura/inc/customizer/controls/js/slider-control.js in GitHub
+Skipping wp-content/themes/asura/inc/customizer/controls/js/slider-control.js as identical to deploy cache
+Uploading C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/wp-content/themes/asura/inc/customizer/controls/js/typography-customizer.js to wp-content/themes/asura/inc/customizer/controls/js/typography-customizer.js in GitHub
+Skipping wp-content/themes/asura/inc/customizer/controls/js/typography-customizer.js as identical to deploy cache
+Uploading C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/wp-content/themes/asura/inc/customizer/controls/js/upsell-control.js to wp-content/themes/asura/inc/customizer/controls/js/upsell-control.js in GitHub
+Skipping wp-content/themes/asura/inc/customizer/controls/js/upsell-control.js as identical to deploy cache
+Uploading C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/wp-content/themes/asura/js/a11y.js to wp-content/themes/asura/js/a11y.js in GitHub
+Skipping wp-content/themes/asura/js/a11y.js as identical to deploy cache
+Uploading C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/wp-content/themes/asura/js/a11y.min.js to wp-content/themes/asura/js/a11y.min.js in GitHub
+Skipping wp-content/themes/asura/js/a11y.min.js as identical to deploy cache
+Uploading C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/wp-content/themes/asura/js/back-to-top.js to wp-content/themes/asura/js/back-to-top.js in GitHub
+Skipping wp-content/themes/asura/js/back-to-top.js as identical to deploy cache
+Uploading C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/wp-content/themes/asura/js/back-to-top.min.js to wp-content/themes/asura/js/back-to-top.min.js in GitHub
+Skipping wp-content/themes/asura/js/back-to-top.min.js as identical to deploy cache
+Uploading C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/wp-content/themes/asura/js/classList.js to wp-content/themes/asura/js/classList.js in GitHub
+Skipping wp-content/themes/asura/js/classList.js as identical to deploy cache
+Uploading C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/wp-content/themes/asura/js/classList.min.js to wp-content/themes/asura/js/classList.min.js in GitHub
+Skipping wp-content/themes/asura/js/classList.min.js as identical to deploy cache
+Uploading C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/wp-content/themes/asura/js/dropdown-click.js to wp-content/themes/asura/js/dropdown-click.js in GitHub
+Skipping wp-content/themes/asura/js/dropdown-click.js as identical to deploy cache
+Uploading C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/wp-content/themes/asura/js/dropdown-click.min.js to wp-content/themes/asura/js/dropdown-click.min.js in GitHub
+Skipping wp-content/themes/asura/js/dropdown-click.min.js as identical to deploy cache
+Uploading C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/wp-content/themes/asura/js/menu.js to wp-content/themes/asura/js/menu.js in GitHub
+Skipping wp-content/themes/asura/js/menu.js as identical to deploy cache
+Uploading C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/wp-content/themes/asura/js/menu.min.js to wp-content/themes/asura/js/menu.min.js in GitHub
+Skipping wp-content/themes/asura/js/menu.min.js as identical to deploy cache
+Uploading C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/wp-content/themes/asura/js/navigation-search.js to wp-content/themes/asura/js/navigation-search.js in GitHub
+Skipping wp-content/themes/asura/js/navigation-search.js as identical to deploy cache
+Uploading C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/wp-content/themes/asura/js/navigation-search.min.js to wp-content/themes/asura/js/navigation-search.min.js in GitHub
+Skipping wp-content/themes/asura/js/navigation-search.min.js as identical to deploy cache
+Uploading C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/wp-content/themes/asura/rtl.css to wp-content/themes/asura/rtl.css in GitHub
+Skipping wp-content/themes/asura/rtl.css as identical to deploy cache
+Uploading C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/wp-content/themes/asura/screenshot.png to wp-content/themes/asura/screenshot.png in GitHub
+Skipping wp-content/themes/asura/screenshot.png as identical to deploy cache
+Uploading C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/wp-content/themes/asura/style.css to wp-content/themes/asura/style.css in GitHub
+Skipping wp-content/themes/asura/style.css as identical to deploy cache
+Uploading C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/wp-content/themes/asura/style.min.css to wp-content/themes/asura/style.min.css in GitHub
+Skipping wp-content/themes/asura/style.min.css as identical to deploy cache
+Uploading C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/wp-content/uploads/2020/06/Maroon-5-Memories-mp3-image-150x150.jpg to wp-content/uploads/2020/06/Maroon-5-Memories-mp3-image-150x150.jpg in GitHub
+Skipping wp-content/uploads/2020/06/Maroon-5-Memories-mp3-image-150x150.jpg as identical to deploy cache
+Uploading C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/wp-content/uploads/2020/06/Maroon-5-Memories-mp3-image-300x169.jpg to wp-content/uploads/2020/06/Maroon-5-Memories-mp3-image-300x169.jpg in GitHub
+Skipping wp-content/uploads/2020/06/Maroon-5-Memories-mp3-image-300x169.jpg as identical to deploy cache
+Uploading C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/wp-content/uploads/2020/06/Maroon-5-Memories-mp3-image.jpg to wp-content/uploads/2020/06/Maroon-5-Memories-mp3-image.jpg in GitHub
+Skipping wp-content/uploads/2020/06/Maroon-5-Memories-mp3-image.jpg as identical to deploy cache
+Uploading C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/wp-content/uploads/2020/06/Maroon-5-Memories.mp3 to wp-content/uploads/2020/06/Maroon-5-Memories.mp3 in GitHub
+Skipping wp-content/uploads/2020/06/Maroon-5-Memories.mp3 as identical to deploy cache
+Uploading C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/wp-content/uploads/2020/06/action-1024x575.jpg to wp-content/uploads/2020/06/action-1024x575.jpg in GitHub
+Skipping wp-content/uploads/2020/06/action-1024x575.jpg as identical to deploy cache
+Uploading C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/wp-content/uploads/2020/06/action-150x150.jpg to wp-content/uploads/2020/06/action-150x150.jpg in GitHub
+Skipping wp-content/uploads/2020/06/action-150x150.jpg as identical to deploy cache
+Uploading C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/wp-content/uploads/2020/06/action-300x169.jpg to wp-content/uploads/2020/06/action-300x169.jpg in GitHub
+Skipping wp-content/uploads/2020/06/action-300x169.jpg as identical to deploy cache
+Uploading C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/wp-content/uploads/2020/06/action-768x432.jpg to wp-content/uploads/2020/06/action-768x432.jpg in GitHub
+Skipping wp-content/uploads/2020/06/action-768x432.jpg as identical to deploy cache
+Uploading C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/wp-content/uploads/2020/06/action.jpg to wp-content/uploads/2020/06/action.jpg in GitHub
+Skipping wp-content/uploads/2020/06/action.jpg as identical to deploy cache
+Uploading C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/wp-content/uploads/2020/06/cropped-heart-150x150.jpg to wp-content/uploads/2020/06/cropped-heart-150x150.jpg in GitHub
+Skipping wp-content/uploads/2020/06/cropped-heart-150x150.jpg as identical to deploy cache
+Uploading C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/wp-content/uploads/2020/06/cropped-heart-180x180.jpg to wp-content/uploads/2020/06/cropped-heart-180x180.jpg in GitHub
+Skipping wp-content/uploads/2020/06/cropped-heart-180x180.jpg as identical to deploy cache
+Uploading C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/wp-content/uploads/2020/06/cropped-heart-192x192.jpg to wp-content/uploads/2020/06/cropped-heart-192x192.jpg in GitHub
+Skipping wp-content/uploads/2020/06/cropped-heart-192x192.jpg as identical to deploy cache
+Uploading C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/wp-content/uploads/2020/06/cropped-heart-270x270.jpg to wp-content/uploads/2020/06/cropped-heart-270x270.jpg in GitHub
+Skipping wp-content/uploads/2020/06/cropped-heart-270x270.jpg as identical to deploy cache
+Uploading C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/wp-content/uploads/2020/06/cropped-heart-300x300.jpg to wp-content/uploads/2020/06/cropped-heart-300x300.jpg in GitHub
+Skipping wp-content/uploads/2020/06/cropped-heart-300x300.jpg as identical to deploy cache
+Uploading C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/wp-content/uploads/2020/06/cropped-heart-32x32.jpg to wp-content/uploads/2020/06/cropped-heart-32x32.jpg in GitHub
+Skipping wp-content/uploads/2020/06/cropped-heart-32x32.jpg as identical to deploy cache
+Uploading C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/wp-content/uploads/2020/06/cropped-heart.jpg to wp-content/uploads/2020/06/cropped-heart.jpg in GitHub
+Skipping wp-content/uploads/2020/06/cropped-heart.jpg as identical to deploy cache
+Uploading C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/wp-content/uploads/2020/06/glitter-1024x768.jpg to wp-content/uploads/2020/06/glitter-1024x768.jpg in GitHub
+Skipping wp-content/uploads/2020/06/glitter-1024x768.jpg as identical to deploy cache
+Uploading C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/wp-content/uploads/2020/06/glitter-150x150.jpg to wp-content/uploads/2020/06/glitter-150x150.jpg in GitHub
+Skipping wp-content/uploads/2020/06/glitter-150x150.jpg as identical to deploy cache
+Uploading C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/wp-content/uploads/2020/06/glitter-300x225.jpg to wp-content/uploads/2020/06/glitter-300x225.jpg in GitHub
+Skipping wp-content/uploads/2020/06/glitter-300x225.jpg as identical to deploy cache
+Uploading C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/wp-content/uploads/2020/06/glitter-768x576.jpg to wp-content/uploads/2020/06/glitter-768x576.jpg in GitHub
+Skipping wp-content/uploads/2020/06/glitter-768x576.jpg as identical to deploy cache
+Uploading C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/wp-content/uploads/2020/06/glitter.jpg to wp-content/uploads/2020/06/glitter.jpg in GitHub
+Skipping wp-content/uploads/2020/06/glitter.jpg as identical to deploy cache
+Uploading C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/wp-content/uploads/2020/06/guitar-1024x513.jpg to wp-content/uploads/2020/06/guitar-1024x513.jpg in GitHub
+Skipping wp-content/uploads/2020/06/guitar-1024x513.jpg as identical to deploy cache
+Uploading C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/wp-content/uploads/2020/06/guitar-150x150.jpg to wp-content/uploads/2020/06/guitar-150x150.jpg in GitHub
+Skipping wp-content/uploads/2020/06/guitar-150x150.jpg as identical to deploy cache
+Uploading C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/wp-content/uploads/2020/06/guitar-300x150.jpg to wp-content/uploads/2020/06/guitar-300x150.jpg in GitHub
+Skipping wp-content/uploads/2020/06/guitar-300x150.jpg as identical to deploy cache
+Uploading C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/wp-content/uploads/2020/06/guitar-768x385.jpg to wp-content/uploads/2020/06/guitar-768x385.jpg in GitHub
+Skipping wp-content/uploads/2020/06/guitar-768x385.jpg as identical to deploy cache
+Uploading C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/wp-content/uploads/2020/06/guitar.jpg to wp-content/uploads/2020/06/guitar.jpg in GitHub
+Skipping wp-content/uploads/2020/06/guitar.jpg as identical to deploy cache
+Uploading C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/wp-content/uploads/2020/06/heart-1-1024x683.jpg to wp-content/uploads/2020/06/heart-1-1024x683.jpg in GitHub
+Skipping wp-content/uploads/2020/06/heart-1-1024x683.jpg as identical to deploy cache
+Uploading C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/wp-content/uploads/2020/06/heart-1-150x150.jpg to wp-content/uploads/2020/06/heart-1-150x150.jpg in GitHub
+Skipping wp-content/uploads/2020/06/heart-1-150x150.jpg as identical to deploy cache
+Uploading C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/wp-content/uploads/2020/06/heart-1-300x200.jpg to wp-content/uploads/2020/06/heart-1-300x200.jpg in GitHub
+Skipping wp-content/uploads/2020/06/heart-1-300x200.jpg as identical to deploy cache
+Uploading C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/wp-content/uploads/2020/06/heart-1-768x512.jpg to wp-content/uploads/2020/06/heart-1-768x512.jpg in GitHub
+Skipping wp-content/uploads/2020/06/heart-1-768x512.jpg as identical to deploy cache
+Uploading C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/wp-content/uploads/2020/06/heart-1.jpg to wp-content/uploads/2020/06/heart-1.jpg in GitHub
+Skipping wp-content/uploads/2020/06/heart-1.jpg as identical to deploy cache
+Uploading C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/wp-content/uploads/2020/06/heart-1024x683.jpg to wp-content/uploads/2020/06/heart-1024x683.jpg in GitHub
+Skipping wp-content/uploads/2020/06/heart-1024x683.jpg as identical to deploy cache
+Uploading C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/wp-content/uploads/2020/06/heart-150x150.jpg to wp-content/uploads/2020/06/heart-150x150.jpg in GitHub
+Skipping wp-content/uploads/2020/06/heart-150x150.jpg as identical to deploy cache
+Uploading C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/wp-content/uploads/2020/06/heart-300x200.jpg to wp-content/uploads/2020/06/heart-300x200.jpg in GitHub
+Skipping wp-content/uploads/2020/06/heart-300x200.jpg as identical to deploy cache
+Uploading C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/wp-content/uploads/2020/06/heart-768x512.jpg to wp-content/uploads/2020/06/heart-768x512.jpg in GitHub
+Skipping wp-content/uploads/2020/06/heart-768x512.jpg as identical to deploy cache
+Uploading C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/wp-content/uploads/2020/06/heart.jpg to wp-content/uploads/2020/06/heart.jpg in GitHub
+Skipping wp-content/uploads/2020/06/heart.jpg as identical to deploy cache
+Uploading C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/wp-content/uploads/2020/06/lights-1024x768.jpg to wp-content/uploads/2020/06/lights-1024x768.jpg in GitHub
+Skipping wp-content/uploads/2020/06/lights-1024x768.jpg as identical to deploy cache
+Uploading C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/wp-content/uploads/2020/06/lights-150x150.jpg to wp-content/uploads/2020/06/lights-150x150.jpg in GitHub
+Skipping wp-content/uploads/2020/06/lights-150x150.jpg as identical to deploy cache
+Uploading C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/wp-content/uploads/2020/06/lights-300x225.jpg to wp-content/uploads/2020/06/lights-300x225.jpg in GitHub
+Skipping wp-content/uploads/2020/06/lights-300x225.jpg as identical to deploy cache
+Uploading C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/wp-content/uploads/2020/06/lights-768x576.jpg to wp-content/uploads/2020/06/lights-768x576.jpg in GitHub
+Skipping wp-content/uploads/2020/06/lights-768x576.jpg as identical to deploy cache
+Uploading C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/wp-content/uploads/2020/06/lights.jpg to wp-content/uploads/2020/06/lights.jpg in GitHub
+Skipping wp-content/uploads/2020/06/lights.jpg as identical to deploy cache
+Uploading C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/wp-content/uploads/2020/06/smoke-1024x683.jpg to wp-content/uploads/2020/06/smoke-1024x683.jpg in GitHub
+Skipping wp-content/uploads/2020/06/smoke-1024x683.jpg as identical to deploy cache
+Uploading C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/wp-content/uploads/2020/06/smoke-150x150.jpg to wp-content/uploads/2020/06/smoke-150x150.jpg in GitHub
+Skipping wp-content/uploads/2020/06/smoke-150x150.jpg as identical to deploy cache
+Uploading C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/wp-content/uploads/2020/06/smoke-300x200.jpg to wp-content/uploads/2020/06/smoke-300x200.jpg in GitHub
+Skipping wp-content/uploads/2020/06/smoke-300x200.jpg as identical to deploy cache
+Uploading C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/wp-content/uploads/2020/06/smoke-768x512.jpg to wp-content/uploads/2020/06/smoke-768x512.jpg in GitHub
+Skipping wp-content/uploads/2020/06/smoke-768x512.jpg as identical to deploy cache
+Uploading C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/wp-content/uploads/2020/06/smoke.jpg to wp-content/uploads/2020/06/smoke.jpg in GitHub
+Skipping wp-content/uploads/2020/06/smoke.jpg as identical to deploy cache
+Uploading C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/wp-includes/css/dist/block-library/style.min.css to wp-includes/css/dist/block-library/style.min.css in GitHub
+Skipping wp-includes/css/dist/block-library/style.min.css as identical to deploy cache
+Uploading C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/wp-includes/js/jquery/jquery.js to wp-includes/js/jquery/jquery.js in GitHub
+Skipping wp-includes/js/jquery/jquery.js as identical to deploy cache
+Uploading C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/wp-includes/js/mediaelement/mediaelement-and-player.min.js to wp-includes/js/mediaelement/mediaelement-and-player.min.js in GitHub
+Skipping wp-includes/js/mediaelement/mediaelement-and-player.min.js as identical to deploy cache
+Uploading C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/wp-includes/js/mediaelement/mediaelement-migrate.min.js to wp-includes/js/mediaelement/mediaelement-migrate.min.js in GitHub
+Skipping wp-includes/js/mediaelement/mediaelement-migrate.min.js as identical to deploy cache
+Uploading C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css to wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css in GitHub
+Skipping wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css as identical to deploy cache
+Uploading C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/wp-includes/js/mediaelement/wp-mediaelement.min.css to wp-includes/js/mediaelement/wp-mediaelement.min.css in GitHub
+Skipping wp-includes/js/mediaelement/wp-mediaelement.min.css as identical to deploy cache
+Uploading C:/Users/LENOVO/Local Sites/wp-festival/app/public/wp-content/uploads/wp-static-html-output-1599283704/wp-includes/js/mediaelement/wp-mediaelement.min.js to wp-includes/js/mediaelement/wp-mediaelement.min.js in GitHub
+Skipping wp-includes/js/mediaelement/wp-mediaelement.min.js as identical to deploy cache
+BAD RESPONSE STATUS (401): 
+GITHUB EXPORT: error encountered
+Exception: GitHub API bad response status in C:\Users\LENOVO\Local Sites\wp-festival\app\public\wp-content\plugins\package\plugin\deployers\GitHub.php:108
+Stack trace:
+#0 C:\Users\LENOVO\Local Sites\wp-festival\app\public\wp-content\plugins\package\plugin\deployers\GitHub.php(25): WP2Static_GitHub->test_upload()
+#1 C:\Users\LENOVO\Local Sites\wp-festival\app\public\wp-content\plugins\package\plugin\deployers\GitHub.php(198): WP2Static_GitHub->__construct()
+#2 C:\Users\LENOVO\Local Sites\wp-festival\app\public\wp-content\plugins\package\plugin\WP2Static\Dispatcher.php(31): require_once('C:\\Users\\LENOVO...')
+#3 C:\Users\LENOVO\Local Sites\wp-festival\app\public\wp-content\plugins\package\wp2static.php(18): require_once('C:\\Users\\LENOVO...')
+#4 C:\Users\LENOVO\Local Sites\wp-festival\app\public\wp-settings.php(377): include_once('C:\\Users\\LENOVO...')
+#5 C:\Users\LENOVO\Local Sites\wp-festival\app\public\wp-config.php(77): require_once('C:\\Users\\LENOVO...')
+#6 C:\Users\LENOVO\Local Sites\wp-festival\app\public\wp-load.php(37): require_once('C:\\Users\\LENOVO...')
+#7 C:\Users\LENOVO\Local Sites\wp-festival\app\public\wp-admin\admin-ajax.php(22): require_once('C:\\Users\\LENOVO...')
+#8 {main}
